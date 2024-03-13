@@ -1,0 +1,6 @@
+com\promociones\interf\impl\TarjetaDeCredito.class
+com\promociones\interf\ITarjetaDeCredito.class
+com\promociones\model\Compra.class
+com\promociones\decorador\CompraDecorador.class
+com\promociones\decorador\PromocionDecorador.class
+com\promociones\App.class
